@@ -13,3 +13,4 @@ com alunos, cursos e matrículas.
 - Isabela Menezes
 - Michelle Leite
 - Nicoli Belem
+- Vitória Cássia
