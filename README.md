@@ -5,6 +5,7 @@ desenvolvemos consultas em um cenário de **universidade**
 com alunos, cursos e matrículas.
 
 ## 👥 Integrantes
+- Alessa Coelho
 - Alana Sampaio
 - Andrea Furtunato
 - Ana Beatriz Faria
