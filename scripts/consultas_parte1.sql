@@ -1,6 +1,9 @@
 -- 1) 
 -- 2) 
 -- 3) 
+SELECT CURSOS.NOME_CURSO, CURSOS.CREDITOS
+FROM CURSOS
+WHERE CURSOS.CREDITOS >= 4;
 -- 4) Filtro de Data: Mostre o nome e o email dos alunos que ingressaram a partir do início de 2023 (ou seja, DATA_INGRESSO maior ou igual a '2023-01- 01').
 SELECT NOME_ALUNO, EMAIL FROM ALUNOS WHERE DATA_INGRESSO >= '2023-01-01';
 
