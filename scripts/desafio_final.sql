@@ -1,3 +1,7 @@
+-- Desafio Final: O Aluno Destaque Crie um único relatório para encontrar o "Aluno Destaque". 
+-- Este aluno é aquele com a maior média das notas finais. 
+-- A consulta deve mostrar o nome do aluno e a sua média de notas, arrendondada para duas casas decimais. 
+
 SELECT ALUNOS.NOME_ALUNO, 
        ROUND(AVG(MATRICULAS.NOTA_FINAL), 2) AS MEDIA_GERAL
 FROM ALUNOS
