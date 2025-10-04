@@ -1,4 +1,4 @@
---1)
+--1) Relatório de Desempenho: Nome do aluno, o nome do curso em que ele está matriculado e a sua nota final.
 SELECT 
     ALUNOS.NOME_ALUNO,
     CURSOS.NOME_CURSO,
