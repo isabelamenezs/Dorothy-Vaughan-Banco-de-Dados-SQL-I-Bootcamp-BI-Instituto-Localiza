@@ -1,0 +1,4 @@
+SELECT 
+    NOME_CURSO AS "Curso",
+    DEPARTAMENTO AS "Departamento Responsável"
+FROM CURSOS;
