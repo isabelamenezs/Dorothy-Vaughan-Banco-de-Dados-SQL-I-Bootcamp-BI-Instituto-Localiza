@@ -1,6 +1,6 @@
 -- 1) 
 -- 2) 
--- 3) 
+-- 3) Filtro Numérico: Nome e os créditos de todos os cursos que valem mais de 4 créditos.
 SELECT CURSOS.NOME_CURSO, CURSOS.CREDITOS
 FROM CURSOS
 WHERE CURSOS.CREDITOS >= 4;
