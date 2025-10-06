@@ -1,4 +1,7 @@
--- 1) 
+--1) Selecionar todas as informações da tabela ALUNOS
+SELECT *
+FROM ALUNOS;
+
 -- 2) Relatório com nome e departamento de todos os cursos 
 SELECT 
     NOME_CURSO AS "Curso",
